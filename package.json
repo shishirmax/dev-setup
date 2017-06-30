@@ -1,0 +1,15 @@
+{
+  "name": "dev-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"budo index.js --live"
+  },
+  "author": "shishir",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^10.0.3",
+    "watchify": "^3.9.0"
+  }
+}
